@@ -4,11 +4,11 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jcli55&theme=blue-green)
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/Your_GitHub_Repository_Name)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=jcli55/jcli55)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+![Profile View Counter](https://komarev.com/ghpvc/?username=jcli55)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = Paste_Your_GitHub_Repository_Link_Here)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = github.com/jcli55/jcli55)
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
