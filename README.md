@@ -8,8 +8,6 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=jcli55)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/jcli55)
-
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
