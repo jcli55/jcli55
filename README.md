@@ -2,6 +2,9 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jcli55&show_icons=true)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jcli55&theme=blue-green)
+
+
 <!--
 **jcli55/jcli55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
